@@ -82,7 +82,8 @@ C
 
 # Question 6.
 ```
-Part B. Choose the sentence that supports the answer to Question 5: Shipbuind is a dangerous job.
+Part B. Choose the sentence that supports the answer to 
+Question 5: Shipbuind is a dangerous job.
 ```
 
 - A. The steel sheets are then ready for making a ship.
