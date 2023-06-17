@@ -1,8 +1,7 @@
 Choose the best answer based on ""
 
-# Question .
-```
-```
+#### Question .
+
 
 - A. 
 - B. 
@@ -12,5 +11,5 @@ Choose the best answer based on ""
 <details>
 <summary>float</summary>
 
-C
+
 </details>
