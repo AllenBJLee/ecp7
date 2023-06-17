@@ -73,10 +73,10 @@ tools feel sad and useless when Lucy
 gets a new computer.
 ```
 
-- A. [pic1](./img/lesson08_05_01.png)
-- B. [pic2](./img/lesson08_05_02.png)
-- C. [pic3](./img/lesson08_05_03.png)
-- D. [pic4](./img/lesson08_05_04.png)
+- A. ![pic1](./img/lesson08_05_01.png)
+- B. ![pic2](./img/lesson08_05_02.png)
+- C. ![pic3](./img/lesson08_05_03.png)
+- D. ![pic4](./img/lesson08_05_04.png)
 
 <details>
 <summary>float</summary>
