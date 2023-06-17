@@ -138,6 +138,26 @@ A
 
 # Question 9.
 ```
+Write the picture number in the currect order
+based on "The Joy of a Ship."
+```
+
+- A. ![pic1](./img/lesson07_09_01.png)
+- B. ![pic2](./img/lesson07_09_02.png)
+- C. ![pic3](./img/lesson07_09_03.png)
+- D. ![pic4](./img/lesson07_09_04.png)
+
+<details>
+<summary>float</summary>
+
+B  
+D  
+C  
+A
+</details>
+
+# Question 10.
+```
 The author's purpose is to ____
 ```
 
