@@ -116,43 +116,43 @@ A
 </details>
 
 #### Question 9.
-The __wind__ pushes the kite higher into the sky.
+The <U>wind</U> pushes the kite higher into the sky.
 
-- A. 
-- B. 
-- C. 
-- D. 
+- A. small, white ice crystals that fall from the sky
+- B. air that moves
+- C. water that falls from clouds to the ground
+- D. what the sky and air outside are like
 
 <details>
 <summary>float</summary>
 
-
+B
 </details>
 
-#### Question .
+#### Question 10.
+According to the <U>thermometer</U>, it is 25 degrees Celsius outside.
 
-
-- A. 
-- B. 
-- C. 
-- D. 
+- A. water that falls from clouds to the ground
+- B. what the sky and air outside are like
+- C. a tool that tell you how hot or cold something is
+- D. a number that snows how hot or cold something is
 
 <details>
 <summary>float</summary>
 
-
+C
 </details>
 
-#### Question .
+#### Question 11.
+Flakes of <U>snow</U> landed on Charlie's head.
 
-
-- A. 
-- B. 
-- C. 
-- D. 
+- A. a number that snows how hot or cold something is
+- B. what the sky and air outside are like
+- C. air that moves
+- D. small, white ice crystals that fall from the sky
 
 <details>
 <summary>float</summary>
 
-
+D
 </details>
