@@ -5,10 +5,10 @@ Choose the best answer based on "The Joy of a Ship."
 What do workers use to move big parts of a ship?
 ```
 
-- [ ] docks  
-- [ ] molds  
-- [ ] cranes  
-- [ ] joints   
+A. [ ]  docks  
+- [ ]  molds  
+- [ ]  cranes  
+- [ ]  D. joints   
 
 <details>
 <summary>float</summary>
