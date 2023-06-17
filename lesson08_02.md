@@ -17,8 +17,8 @@ C
 #### Question 2.
 Draw lines to match the animals to what they want in "Click, Clack, Moo: Cows That Type."
 
-        ducks O             O electric blankets
-cows and hens O             O diving board
+#####         ducks O             O electric blankets  
+##### cows and hens O             O diving board
 
 
 <details>
