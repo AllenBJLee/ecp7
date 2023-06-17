@@ -104,19 +104,19 @@ D
 #### Question 8.
 I blew on the spoon because the ____ of the soup was too hot.
 
-- A. 
-- B. 
-- C. 
-- D. 
+- A. temperature
+- B. thermometer
+- C. wind
+- D. snow
 
 <details>
 <summary>float</summary>
 
-
+A
 </details>
 
-#### Question .
-
+#### Question 9.
+The __wind__ pushes the kite higher into the sky.
 
 - A. 
 - B. 
