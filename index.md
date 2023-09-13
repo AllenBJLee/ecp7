@@ -13,3 +13,7 @@
 ## Non fiction
 - [Go to Unit3 lesson 1](./nonfiction_03_01.md)
 - [Go to Unit3 lesson 2](./nonfiction_03_02.md)
+
+## 2nd Lesson 1
+- [Go to lesson 1 - Little Flap Learns to Fly.](./lesson_2nd_01_01.md)
+- [Go to lesson 2 - Help! A Stroy of Friendship.](./lesson_2nd_01_02.md)
