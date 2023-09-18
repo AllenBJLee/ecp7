@@ -18,7 +18,8 @@ A
 
 #### Question 2.
 ```
-Part A. What does the word "gossip" mean in the following sentence from the stroy?
+Part A. What does the word "gossip" mean in the following 
+sentence from the stroy?
 "That's silly gossip," said Hedgehog.
 ```
 
@@ -36,8 +37,10 @@ B
 #### Question 3.
 Find the detail that supports the answer to Question 2: gossip is talking about the lives of others when they are not there. Choose the best answer based on "Help! A Stroy of Friendship."
 ```
-"Yes," Mouse whispered. "Fox told Skunk and Skunk told me that snakes are very dangerous to mice."
-"That's silly gossip," said Hedgehog. "You know Snake would never hurt you."
+"Yes," Mouse whispered. 
+"Fox told Skunk and Skunk told me that snakes are very dangerous to mice."
+"That's silly gossip," said Hedgehog. 
+"You know Snake would never hurt you."
 ```
 
 - A. "Yes," Mouse whispered.
@@ -69,7 +72,8 @@ C
 
 #### Question 5.
 ```
-Match the animals to the reasons they cannot help Mouse in "Help! A Stroy of Friendship."
+Match the animals to the reasons they cannot help Mouse 
+in "Help! A Stroy of Friendship."
 ```
 
 ```
@@ -122,7 +126,8 @@ A
 
 #### Question 8.
 ```
-Choose a word in each box to describe how Mouse feels from "Help! A Story of Friendship."
+Choose a word in each box to describe how Mouse feels 
+from "Help! A Story of Friendship."
 ```
 
 - A. content
@@ -160,7 +165,8 @@ A
 
 #### Question 10.
 ```
-Find the answer to complete the sentence based on "Help! A Stroy of Friendship."
+Find the answer to complete the sentence 
+based on "Help! A Stroy of Friendship."
 ```
 
 The story is mainly about ____.

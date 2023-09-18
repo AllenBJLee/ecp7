@@ -2,7 +2,8 @@ Choose the best answer based on "Little Flap Learns to Fly."
 
 #### Question 1.
 ```
-Find the TWO sentences that tell you where the three birds live in "Little Flap Learns to Fly."
+Find the TWO sentences that tell you where the three birds 
+live in "Little Flap Learns to Fly."
 ```
 
 - A. Little Flap was happy living in his nest.
@@ -55,7 +56,8 @@ A
 #### Question 4.
 Choose the best answer based on "Little Flap Learns to Fly."
 ```
-Part B. Find the sentence that supports the answer to Question 3: Little Flap is nervous about jumping from his nest.
+Part B. Find the sentence that supports the answer to 
+Question 3: Little Flap is nervous about jumping from his nest.
 ```
 
 - A. Tuff and Little Flap watched Fluff. Then they copied her actions.
@@ -89,7 +91,8 @@ C
 
 #### Question 6.
 ```
-Choose the answer that describes the picture from "Little Flap Learns to Fly."
+Choose the answer that describes the picture 
+from "Little Flap Learns to Fly."
 ```
 ![pic1](./img/lesson_2nd_01_06_01.png)
 
@@ -106,7 +109,8 @@ A
 
 #### Question 7.
 ```
-Write the alphabet of pictures in the correct order based on "Little Flap Learns to Fly."
+Write the alphabet of pictures in the correct 
+order based on "Little Flap Learns to Fly."
 ```
 
 - A. ![pic1](./img/lesson_2nd_01_07_01.png)
@@ -121,7 +125,8 @@ D B C A
 </details>
 
 #### Question 8.
-Find TWO the answers to complete the sentence based on "Little Flap Learns to Fly."
+Find TWO the answers to complete the sentence 
+based on "Little Flap Learns to Fly."
 ```
 Fluff and Tuff are ____ friends because Little Flap can ____ on them.
 ```
@@ -134,7 +139,7 @@ Fluff and Tuff are ____ friends because Little Flap can ____ on them.
 <details>
 <summary>float</summary>
 
-
+D, A
 </details>
 
 #### Question 9.

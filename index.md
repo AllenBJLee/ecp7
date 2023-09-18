@@ -17,3 +17,7 @@
 ## 2nd Lesson 1
 - [Go to lesson 1 - Little Flap Learns to Fly.](./lesson_2nd_01_01.md)
 - [Go to lesson 2 - Help! A Stroy of Friendship.](./lesson_2nd_01_02.md)
+
+## 2nd Lesson 2
+- [Go to lesson 1 - Maria Celebrates Brazil.](./lesson_2nd_02_01.md)
+- [Go to lesson 2 - Big Red Lollipop.](./lesson_2nd_02_02.md)
