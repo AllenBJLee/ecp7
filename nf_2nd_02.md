@@ -140,7 +140,7 @@ C
 #### Question 10.
 Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-My family is a part of a large __community__ in the city.
+My family is a part of a large <u>community<u> in the city.
 
 - A. people or things that are together or connected
 - B. a group of people who live or work in the same area
