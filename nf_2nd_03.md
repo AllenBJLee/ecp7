@@ -144,11 +144,9 @@ A
 </details>
 
 #### Question 9.
-Read the sentence carefully. Then choose the correct meaning of the underlined word.
+Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-```
 We <U>decided</U> to play soccer after school.
-```
 
 - A. to cause pain or injury
 - B. a small job that is done regularly
@@ -162,11 +160,9 @@ C
 </details>
 
 #### Question 10.
-Read the sentence carefully. Then choose the correct meaning of the underlined word.
+Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-```
 Joe and I play <U>fairly</U> by taking turns.
-```
 
 - A. something that tells you what you can or cannot do
 - B. to cause pain or injury
@@ -180,11 +176,9 @@ D
 </details>
 
 #### Question 11.
-Read the sentence carefully. Then choose the correct meaning of the underlined word.
+Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-```
 Amy's last <U>chore</U> is to clean her bedroom.
-```
 
 - A. to cause pain or injury
 - B. a small job that is done regularly

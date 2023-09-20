@@ -122,11 +122,9 @@ A
 </details>
 
 #### Question 9.
-Read the sentence carefully. Then choose the correct meaning of the underlined word.
+Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-```
 Mary and her sister <U>share</U> a bedroom.
-```
 
 - A. a student in the same class as you at school
 - B. to work together with others toward a goal
@@ -140,11 +138,9 @@ C
 </details>
 
 #### Question 10.
-Read the sentence carefully. Then choose the correct meaning of the underlined word.
+Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-```
 My family is a part of a large <U>community</U> in the city.
-```
 
 - A. people or things that are together or connected
 - B. a group of people who live or work in the same area
@@ -158,11 +154,9 @@ B
 </details>
 
 #### Question 11.
-Read the sentence carefully. Then choose the correct meaning of the underlined word.
+Read the sentence carefully. Then choose the correct meaning of the underlined word.<br><br>
 
-```
 Tom <U>cooperated</U> with his parents by helping them cook.
-```
 
 - A. to use or have something with others
 - B. people or things that are together or connected
