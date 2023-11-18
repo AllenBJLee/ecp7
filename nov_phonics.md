@@ -26,10 +26,10 @@ d
 
 ### Choose the picture with same vowel sound as "oil".
 
- - a. <img src="./img/nov/toy.png" width="10%" height="10%"/>![pic1]
- - b. <img src="./img/nov/coin.png" width="10%" height="10%"/>![pic1]
- - c. <img src="./img/nov/screw.png" width="10%" height="10%"/>![pic1]
- - d. <img src="./img/nov/boy.png" width="10%" height="10%"/>![pic1]
+ - a. <img src="./img/nov/toy.png" width="10%" height="10%"/>
+ - b. <img src="./img/nov/coin.png" width="10%" height="10%"/>
+ - c. <img src="./img/nov/screw.png" width="10%" height="10%"/>
+ - d. <img src="./img/nov/boy.png" width="10%" height="10%"/>
 
 <details>
 <summary>float</summary>
