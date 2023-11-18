@@ -39,7 +39,8 @@ b
 
 ### Choose the correct letters to complete the name of each picture.
 
-1. <img src="./img/nov/newt.png" width="10%" height="10%"/>
+1.
+<img src="./img/nov/newt.png" width="10%" height="10%"/>
 
 n__t <br>
 
