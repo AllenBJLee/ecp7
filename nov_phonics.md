@@ -39,7 +39,6 @@ b
 
 ### Choose the correct letters to complete the name of each picture.
 
-1.
 <img src="./img/nov/newt.png" width="10%" height="10%"/>
 
 n__t <br>
@@ -55,7 +54,7 @@ n__t <br>
 c
 </details>
 
-2. <img src="./img/nov/foil.png" width="10%" height="10%"/>
+<img src="./img/nov/foil.png" width="10%" height="10%"/>
 
 f__l <br>
 
@@ -70,7 +69,7 @@ f__l <br>
 a
 </details>
 
-3. <img src="./img/nov/joy.png" width="10%" height="10%"/>
+<img src="./img/nov/joy.png" width="10%" height="10%"/>
 
 j__ <br>
 
