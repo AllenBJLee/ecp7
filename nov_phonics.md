@@ -7,21 +7,21 @@
 
 ### Choose the picture with same vowel sound as "toy".
 
- - a. ![pic1](./img/nov/screw.png)
- - b. ![pic1](./img/nov/new.png)
- - c. ![pic1](./img/nov/stew.png)
- - d. ![pic1](./img/nov/joy.png)
+ - a. <img src="./img/nov/screw.png" width="10%" height="10%"/>
+ - b. <img src="./img/nov/new.png" width="10%" height="10%"/>
+ - c. <img src="./img/nov/stew.png" width="10%" height="10%"/>
+ - d. <img src="./img/nov/joy.png" width="10%" height="10%"/>
 
 ### Choose the picture with same vowel sound as "oil".
 
- - a. ![pic1](./img/nov/toy.png)
- - b. ![pic1](./img/nov/coin.png)
- - c. ![pic1](./img/nov/screw.png)
- - d. ![pic1](./img/nov/boy.png)
+ - a. <img src="./img/nov/toy.png" width="10%" height="10%"/>![pic1]
+ - b. <img src="./img/nov/coin.png" width="10%" height="10%"/>![pic1]
+ - c. <img src="./img/nov/screw.png" width="10%" height="10%"/>![pic1]
+ - d. <img src="./img/nov/boy.png" width="10%" height="10%"/>![pic1]
 
 ### Choose the correct letters to complete the name of each picture.
 
-1. ![pic1](./img/nov/newt.png)
+1. <img src="./img/nov/newt.png" width="10%" height="10%"/>
 
 n__t <br>
 
@@ -30,7 +30,7 @@ n__t <br>
  - c. ew
  - d. uo
 
-2. ![pic1](./img/nov/foil.png)
+2. <img src="./img/nov/foil.png" width="10%" height="10%"/>
 
 f__l <br>
 
@@ -39,7 +39,7 @@ f__l <br>
  - c. oy
  - d. ew
 
-3. ![pic1](./img/nov/joy.png)
+3. <img src="./img/nov/joy.png" width="10%" height="10%"/>
 
 j__ <br>
 
