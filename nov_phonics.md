@@ -5,6 +5,12 @@
  - c. <img src="./img/nov/foil.png" width="10%" height="10%"/>
  - d. <img src="./img/nov/cowboy.png" width="10%" height="10%"/>
 
+ <details>
+<summary>float</summary>
+
+b
+</details>
+
 ### Choose the picture with same vowel sound as "toy".
 
  - a. <img src="./img/nov/screw.png" width="10%" height="10%"/>
@@ -12,12 +18,24 @@
  - c. <img src="./img/nov/stew.png" width="10%" height="10%"/>
  - d. <img src="./img/nov/joy.png" width="10%" height="10%"/>
 
+<details>
+<summary>float</summary>
+
+d
+</details>
+
 ### Choose the picture with same vowel sound as "oil".
 
  - a. <img src="./img/nov/toy.png" width="10%" height="10%"/>![pic1]
  - b. <img src="./img/nov/coin.png" width="10%" height="10%"/>![pic1]
  - c. <img src="./img/nov/screw.png" width="10%" height="10%"/>![pic1]
  - d. <img src="./img/nov/boy.png" width="10%" height="10%"/>![pic1]
+
+<details>
+<summary>float</summary>
+
+b
+</details>
 
 ### Choose the correct letters to complete the name of each picture.
 
@@ -30,6 +48,12 @@ n__t <br>
  - c. ew
  - d. uo
 
+<details>
+<summary>float</summary>
+
+c
+</details>
+
 2. <img src="./img/nov/foil.png" width="10%" height="10%"/>
 
 f__l <br>
@@ -39,6 +63,12 @@ f__l <br>
  - c. oy
  - d. ew
 
+<details>
+<summary>float</summary>
+
+a
+</details>
+
 3. <img src="./img/nov/joy.png" width="10%" height="10%"/>
 
 j__ <br>
@@ -47,4 +77,9 @@ j__ <br>
  - b. oy
  - c. ew
  - d. ou
-ss
+
+<details>
+<summary>float</summary>
+
+b
+</details>
