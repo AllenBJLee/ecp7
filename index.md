@@ -23,3 +23,6 @@
 ## 2nd Lesson 2
 - [Go to lesson 1 - Maria Celebrates Brazil.](./lesson_2nd_02_01.md)
 - [Go to lesson 2 - Big Red Lollipop.](./lesson_2nd_02_02.md)
+
+## Nov. Phonics
+ - [Go to Phonics](./nov_phonics.md)
