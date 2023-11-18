@@ -1,6 +1,6 @@
 ### Choose the picture with same vowel sound as "stew".
 
- - a. ![pic1](./img/nov/boy.png)
+ - a. ![pic1](./img/nov/boy.png){: width="50%" height="50%"}
  - b. ![pic1](./img/nov/newt.png)
  - c. ![pic1](./img/nov/foil.png)
  - d. ![pic1](./img/nov/cowboy.png)
