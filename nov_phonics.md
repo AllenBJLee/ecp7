@@ -88,7 +88,7 @@ b
 
 | | | |
 |----|----|----|
-|<img src="./img/nov/boil.png" width="50%" height="50%"/><br><br>|<img src="./img/nov/boil.png" width="10%" height="10%"/><br><br>|<img src="./img/nov/boil.png" width="10%" height="10%"/><br><br>|
+|<img src="./img/nov/boil.png" width="100%" height="100%"/><br><br>|<img src="./img/nov/boil.png" width="10%" height="10%"/><br><br>|<img src="./img/nov/boil.png" width="10%" height="10%"/><br><br>|
 
 <br>
 <br>
