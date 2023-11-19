@@ -6,21 +6,24 @@ shouldn't that's they've we've what's
 you'll
 ```
 1.
+
 |Contractions with `not`|Contractions with `is`|Contractions with `have`|
-|----|----|----|
+|-----|----|----|
 |<br><br>|<br><br>|<br><br>|
 |<br><br>|<br><br>|<br><br>|
 |<br><br>|<br><br>|<br><br>|
 
 2.
+
 |Contractions with `will`|
-|----|
+|------------------------|
 |<br><br>|
 |<br><br>|
 
 3.
+
 |Contractions with `us`|
-|----|
+|----------------------|
 |<br><br>|
 
 ### Write the contraction for each pair of words.
@@ -28,6 +31,7 @@ you'll
 he's it's I've let's she's 
 they've we've you've
 ```
+
 | | | |
 |----|----|----|
 |she has|you have|let us|
