@@ -26,5 +26,6 @@
 
 ## Nov. Phonics
  - [Go to Phonics](./nov_phonics.md)
+ - [Go to picture quiz oo ea au aw](./nov_picture_quiz_oo_ea.md)
  - [Go to picture quiz](./nov_phonics_picture_quiz.md)
  - [Go to contractions](./nov_shorter.md)

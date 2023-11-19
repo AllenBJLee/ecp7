@@ -40,7 +40,7 @@ they've we've you've
 ### Find correct the contraction.
 1. I <U>will not</U> go to zoo.
 
- - a. whouldn't
+ - a. wouldn't
  - b. couldn't
  - c. won't
  - d. don't
@@ -48,9 +48,16 @@ they've we've you've
 2. I <U>can not</U> find my toy box.
 
  - a. couldn't
- - b. whouldn't
+ - b. wouldn't
  - c. cann't
  - d. can't
+
+3. They <U>were not</U> been fun playing without toys.
+
+ - a. are not
+ - b. would not
+ - c. wern't
+ - d. weren't
 
 3. <U>You have</U> scored thirty points.
 
@@ -66,10 +73,60 @@ they've we've you've
  - c. She'l
  - d. She'nt
 
-5. What noise <U>whould not</U> we hear?
+5. What noise <U>would not</U> we hear?
 
  - a. won't
- - b. whouldn't
+ - b. wouldn't
  - c. shouldn't
  - d. couldn't
+
+### Write the words for the underlined contraction in each sentence.
+
+1. I <U>wouldn't</U> take Bus I2 to the library.
+
+ - a. will not
+ - b. should not
+ - c. would not
+ - d. have not
+
+2. I <U>won't</U> going to run in a race.
+
+ - a. would not
+ - b. should not
+ - c. can not
+ - d. will not
+
+3. You <U>weren't</U> in the toy store.
+
+ - a. are not
+ - b. were not
+ - c. will not
+ - d. would not
+
+### Find correct the abbreviation.
+
+1. Yard
+
+ - a. yrd.
+ - b. yd.
+ - c. yad.
+ - d. yod.
+
+2. April
+ - a. Apl.
+ - b. Api.
+ - c. Apr.
+ - d. Arl.
+
+3. Saturday.
+ - a. Sad.
+ - b. Say.
+ - c. Sat.
+ - d. Sur.
+
+4. Missus.
+ - a. Ms.
+ - b. Mr.
+ - c. Mrs.
+ - d. Mis.
 
