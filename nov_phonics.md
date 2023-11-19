@@ -24,7 +24,7 @@ b
 d
 </details>
 
-### Choose the picture with same vowel sound as "oil".
+### Choose the picture with same vowel as "oil".
 
  - a. <img src="./img/nov/toy.png" width="10%" height="10%"/>
  - b. <img src="./img/nov/coin.png" width="10%" height="10%"/>
