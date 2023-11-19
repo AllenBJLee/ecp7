@@ -26,6 +26,10 @@ you'll
 |----------------------|
 |<br><br>|
 
+<br>
+<br>
+<br>
+
 ### Write the contraction for each pair of words.
 ```
 he's it's I've let's she's 
