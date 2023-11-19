@@ -66,3 +66,10 @@ they've we've you've
  - c. She'l
  - d. She'nt
 
+5. What noise <U>whould not</U> we hear?
+
+ - a. won't
+ - b. whouldn't
+ - c. shouldn't
+ - d. couldn't
+
