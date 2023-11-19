@@ -83,3 +83,15 @@ j__ <br>
 
 b
 </details>
+
+### Write correct name of each picture.
+
+<img src="./img/nov/boil.png" width="10%" height="10%"/>
+
+----------
+
+<details>
+<summary>float</summary>
+
+boil
+</details>
