@@ -87,7 +87,7 @@ b
 ### Write correct name of each picture.
 
 | | | |
-|----|----|----|
+|:----:|:----:|:----:|
 |<img src="./img/nov/boil.png" width="50%" height="50%"/>|<img src="./img/nov/boil.png" width="50%" height="50%"/>|<img src="./img/nov/boil.png" width="50%" height="50%"/>|
 |<br><br><br>|<br><br><br>|<br><br><br>|
 
