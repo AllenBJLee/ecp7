@@ -117,18 +117,21 @@ they've we've you've
  - d. yod.
 
 2. April
+
  - a. Apl.
  - b. Api.
  - c. Apr.
  - d. Arl.
 
 3. Saturday.
+
  - a. Sad.
  - b. Say.
  - c. Sat.
  - d. Sur.
 
 4. Missus.
+
  - a. Ms.
  - b. Mr.
  - c. Mrs.
