@@ -29,7 +29,7 @@ he's it's I've let's she's
 they've we've you've
 ```
 | | | |
-|----|
+|----|----|----|
 |she has|you have|let us|
 |<br><br>|<br><br>|<br><br>|
 |we have|he has|I have|
